@@ -1,4 +1,9 @@
+fastapi
+uvicorn
 requests
 numpy
 pandas
-matplotlib
+xarray
+netCDF4
+scipy
+jupyter
